@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Mans/Options Scene.unity
+    guid: 5766db483a29e0240996a861b14764ac
+  - enabled: 1
+    path: Assets/Scenes/Intro/Accusation/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Disease/Plague Info.unity
+    guid: 6680e3091df6c5c498e59ae0463550fc
+  - enabled: 1
+    path: Assets/Scenes/Disease/Dysentry Info.unity
+    guid: 2351739be5490fa4cbf77eb9e9f74b6d
+  - enabled: 1
+    path: Assets/Scenes/Hortense House.unity
+    guid: 9f4a5c3fd866ef34184ff34875134521
+  - enabled: 1
+    path: Assets/Scenes/Mans/Caspian.unity
+    guid: 5359ece7f36a6bb43879fba38d061c5b
+  - enabled: 1
+    path: Assets/Scenes/MainMap.unity
+    guid: 7135327949194ae4d9ce187d11877e95
+  - enabled: 1
+    path: Assets/Scenes/Intro/Accusation/SampleScene 2.unity
+    guid: f336d8efca9129f4680f9c83fafcab26
+  - enabled: 1
+    path: Assets/Scenes/Intro/Accusation/SampleScene 1.unity
+    guid: 5f27cd9113518fc4391f899c2ee0428c
+  - enabled: 1
+    path: Assets/Scenes/UI/StartScreen.unity
+    guid: c7a7e877a01fc914c8fcc0f699b08759
+  - enabled: 1
+    path: Assets/Scenes/Intro/Accusation/SampleScene 3.unity
+    guid: e9ae09258e54e8e4f82100e6bfaeab9c
+  - enabled: 1
+    path: Assets/Scenes/Intro/Accusation/SampleScene 4.unity
+    guid: 7eea4dcce448b524a8f3c24c5ae1fefe
+  - enabled: 1
+    path: Assets/Scenes/Intro/Accusation/SampleScene 5.unity
+    guid: 0e5f5c1827579494da6b78f9b220a741
+  - enabled: 1
+    path: Assets/Scenes/Intro/Accusation/SampleScene 6.unity
+    guid: e24732c0fd9552f40bbf9bccc0537616
+  - enabled: 1
+    path: Assets/Scenes/Intro/Meeting Caspian/SampleScene 7.unity
+    guid: 6666d56a2659ec5459f51ae112f151c7
+  - enabled: 1
+    path: Assets/Scenes/Mans/Vampire.unity
+    guid: d2fc84476bf72e44b85d27e67cc74ac3
+  - enabled: 1
+    path: Assets/Scenes/JamMaking.unity
+    guid: f10d220f23e85aa4e95f5cccf2306528
+  - enabled: 1
+    path: Assets/Scenes/Intro/Meeting Caspian/SampleScene 8.unity
+    guid: a1c9b3bff556cf44b86c242580b8973d
+  - enabled: 1
+    path: Assets/Scenes/Intro/Meeting Caspian/SampleScene 9.unity
+    guid: f72c7e0c380ed614d84dd6a15f0c76e0
+  - enabled: 1
+    path: Assets/Scenes/Intro/Meeting Caspian/SampleScene 10.unity
+    guid: 1c0f7df7c0061e94eafad9c84fbf3efa
+  - enabled: 1
+    path: Assets/Scenes/Intro/Meeting Caspian/SampleScene 11.unity
+    guid: f09b156a481c03d4991f4ec3a44a1d48
+  - enabled: 1
+    path: Assets/Scenes/Intro/Meeting Caspian/SampleScene 12.unity
+    guid: d29aafb05bec2804c83019328e3ea371
+  - enabled: 1
+    path: Assets/Scenes/Intro/Meeting Caspian/SampleScene 13.unity
+    guid: 1de923ad1c4e0104baaa239e13ceb346
+  - enabled: 1
+    path: Assets/Scenes/Intro/Meeting Caspian/SampleScene 14.unity
+    guid: 17cce6fb8a171b64b9d02a4ffbcf2dbe
+  - enabled: 1
+    path: Assets/Scenes/Intro/Meeting Caspian/SampleScene 15.unity
+    guid: b7d19a8977bb97647bbbce8bb7c804a9
+  - enabled: 1
+    path: Assets/Scenes/Intro/Meeting Caspian/Leave.unity
+    guid: c3266184e8b07d54f9d24c76b0c6d73e
+  - enabled: 1
+    path: Assets/Scenes/Intro/Meeting Vampire/SampleScene 16.unity
+    guid: 13b0362eadf139741a106cbb348767d7
+  - enabled: 1
+    path: Assets/Scenes/Intro/Meeting Vampire/SampleScene 17.unity
+    guid: 9f05f65d0c2fcd8418be91de7700b09f
+  - enabled: 1
+    path: Assets/Scenes/Intro/Meeting Vampire/SampleScene 18.unity
+    guid: 25b286fa2904a6e41a5ebeab74fccb77
+  - enabled: 1
+    path: Assets/Scenes/Intro/Meeting Vampire/SampleScene 19.unity
+    guid: 7b70c69be9d6fa94c9bd36ebbe4b6ea4
+  - enabled: 1
+    path: Assets/Scenes/Intro/Meeting Vampire/SampleScene 20.unity
+    guid: 24665cbb7d75696439d8f82b44c3e07e
+  - enabled: 1
+    path: Assets/Scenes/Intro/Meeting Vampire/SampleScene 21.unity
+    guid: f4946c3eaa7555a41b352a7a417544fc
+  - enabled: 1
+    path: Assets/Scenes/Intro/Meeting Vampire/SampleScene 22.unity
+    guid: 7147362f9cba5324f844418541f12068
+  - enabled: 1
+    path: Assets/Scenes/Intro/Meeting Vampire/SampleScene 23.unity
+    guid: 2ef6084b30494144f8bf1506ea407aa7
+  - enabled: 1
+    path: Assets/Scenes/Intro/Meeting Vampire/SampleScene 24.unity
+    guid: f29803390385b3545890f483b4504bc7
+  - enabled: 1
+    path: Assets/Scenes/Intro/Meeting Vampire/SampleScene 25.unity
+    guid: d3ca8f0ba13f13d43a9f4933785956b1
+  - enabled: 1
+    path: Assets/Scenes/Intro/Meeting Vampire/SampleScene 26.unity
+    guid: c0bb8fb422a57804c8deadd2f4f67940
+  - enabled: 1
+    path: Assets/Scenes/Intro/Meeting Vampire/SampleScene 27.unity
+    guid: ca8be822ba29aa54f8e416234cb2acc8
+  - enabled: 1
+    path: Assets/Scenes/Intro/Meeting Vampire/SampleScene 28.unity
+    guid: 49b3b9351601ff94f9fbfb12a42b007e
+  - enabled: 1
+    path: Assets/Scenes/Intro/Meeting Vampire/SampleScene 29.unity
+    guid: 005d4fd4a2cd6c54f935b381df2451fa
+  - enabled: 1
+    path: Assets/Scenes/Intro/Meeting Vampire/SampleScene 30.unity
+    guid: 457a80c335602064bb11fb720571303f
+  m_configObjects: {}
