@@ -220,6 +220,7 @@ GameObject:
   - component: {fileID: 89810707}
   - component: {fileID: 89810706}
   - component: {fileID: 89810705}
+  - component: {fileID: 89810708}
   m_Layer: 5
   m_Name: Button (Legacy) (1)
   m_TagString: Untagged
@@ -290,7 +291,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 89810706}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 89810708}
+        m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
+        m_MethodName: LoadScenelink
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &89810706
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -329,6 +342,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 89810703}
   m_CullTransparentMesh: 1
+--- !u!114 &89810708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 89810703}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ebefba4f9ff6b34ba64bd888847fd4e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SceneName: Options Scene
 --- !u!1 &187710088
 GameObject:
   m_ObjectHideFlags: 0
@@ -1010,6 +1036,7 @@ GameObject:
   - component: {fileID: 1248738309}
   - component: {fileID: 1248738308}
   - component: {fileID: 1248738307}
+  - component: {fileID: 1248738310}
   m_Layer: 5
   m_Name: Button (Legacy)
   m_TagString: Untagged
@@ -1080,7 +1107,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1248738308}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1248738310}
+        m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
+        m_MethodName: LoadScenelink
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1248738308
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1119,6 +1158,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1248738305}
   m_CullTransparentMesh: 1
+--- !u!114 &1248738310
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1248738305}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ebefba4f9ff6b34ba64bd888847fd4e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SceneName: Hortense House
 --- !u!1 &1608306566
 GameObject:
   m_ObjectHideFlags: 0
