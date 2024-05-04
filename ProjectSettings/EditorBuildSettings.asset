@@ -143,4 +143,22 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Demo/Dream.unity
     guid: 49a2aea0fb62e204faa1dfb4af3de159
+  - enabled: 1
+    path: Assets/Scenes/Demo/Moves/Bend^Snap/Power.unity
+    guid: adeb1c53fa43e9542be776167e6ef299
+  - enabled: 1
+    path: Assets/Scenes/Demo/Moves/Bend^Snap/Power 1.unity
+    guid: f1f9163a84fc244429bbfea2cefd966b
+  - enabled: 1
+    path: Assets/Scenes/Demo/Moves/Bend^Snap/Power 2.unity
+    guid: 18f8181ab986e4f4ab55f2db5d7b561d
+  - enabled: 1
+    path: Assets/Scenes/Demo/Moves/Bend^Snap/Power 3.unity
+    guid: 3666e3ed2c04f464ca5083994812bd14
+  - enabled: 1
+    path: Assets/Scenes/Demo/Moves/Bend^Snap/Power 4.unity
+    guid: 89f333ae8ef3fa449a72f95f7566be27
+  - enabled: 1
+    path: Assets/Scenes/Demo/Moves/Bend^Snap/Power 5.unity
+    guid: d75c6a5044f22b24ba3d6ba263f8a602
   m_configObjects: {}
