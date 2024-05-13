@@ -161,4 +161,55 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Demo/Moves/Bend^Snap/Power 5.unity
     guid: d75c6a5044f22b24ba3d6ba263f8a602
+  - enabled: 1
+    path: Assets/Scenes/Intro/Spells/SampleScene 31.unity
+    guid: 99bce0dd0d6fe2a4b880479f025190fe
+  - enabled: 1
+    path: Assets/Scenes/Intro/Spells/SampleScene 32.unity
+    guid: 698913fa35c963149847325b3501a4f2
+  - enabled: 1
+    path: Assets/Scenes/Intro/Spells/SampleScene 33.unity
+    guid: 1374507aca4e5c245a85041f14a7cc98
+  - enabled: 1
+    path: Assets/Scenes/Intro/Spells/SampleScene 34.unity
+    guid: 752e3565f3a8ff8439675de1924b10d6
+  - enabled: 1
+    path: Assets/Scenes/Intro/Spells/SampleScene 35.unity
+    guid: ea789618942df714cbfe54484ace1410
+  - enabled: 1
+    path: Assets/Scenes/Intro/Spells/SampleScene 36.unity
+    guid: 6c9adc6e3eadd8748a14e5736ccbf522
+  - enabled: 1
+    path: Assets/Scenes/Intro/Spells/SampleScene 37.unity
+    guid: e96acff9e250f7744aaa731d3b36e815
+  - enabled: 1
+    path: Assets/Scenes/Intro/Spells/SampleScene 38.unity
+    guid: 751179c9fe11a8444855cbc41f450943
+  - enabled: 1
+    path: Assets/Scenes/Intro/Spells/SampleScene 39.unity
+    guid: 30b3f5b2c6823014997802fec2eb55be
+  - enabled: 1
+    path: Assets/Scenes/Intro/Spells/SampleScene 40.unity
+    guid: 2d6a564266c599f43abb2bbd813a611c
+  - enabled: 1
+    path: Assets/Scenes/Intro/Spells/SampleScene 41.unity
+    guid: 7ba41266e4b68d94491e338162522268
+  - enabled: 1
+    path: Assets/Scenes/Intro/Spells/SampleScene 43.unity
+    guid: d8c38a90865e2324e9c0db02a7790a82
+  - enabled: 1
+    path: Assets/Scenes/Spell.unity
+    guid: fef42b76ad750364f93c3459165cf716
+  - enabled: 1
+    path: Assets/Scenes/Spell 1.unity
+    guid: c6e69865bd9293b419d97facdc79c3aa
+  - enabled: 1
+    path: Assets/Scenes/Spell 2.unity
+    guid: 93c2683edd944ee4eb58caa5e00d1b81
+  - enabled: 1
+    path: Assets/Scenes/Spell 3.unity
+    guid: bc48c555eadd7484d94ab5859603f688
+  - enabled: 1
+    path: Assets/Scenes/Intro/Spells/SampleScene 42.unity
+    guid: 30bd2a5e67e0b554e872df0cf2f4a58c
   m_configObjects: {}
