@@ -54,7 +54,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Mans/Vampire.unity
     guid: d2fc84476bf72e44b85d27e67cc74ac3
   - enabled: 1
-    path: Assets/Scenes/JamMaking.unity
+    path: Assets/Scenes/Mixxing/JamMaking.unity
     guid: f10d220f23e85aa4e95f5cccf2306528
   - enabled: 1
     path: Assets/Scenes/Intro/Meeting Caspian/SampleScene 8.unity
