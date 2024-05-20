@@ -33,7 +33,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Intro/Accusation/SampleScene 1.unity
     guid: 5f27cd9113518fc4391f899c2ee0428c
   - enabled: 1
-    path: Assets/Scenes/UI/StartScreen.unity
+    path: Assets/Scenes/SampleScene 1/UI/StartScreen.unity
     guid: c7a7e877a01fc914c8fcc0f699b08759
   - enabled: 1
     path: Assets/Scenes/Intro/Accusation/SampleScene 3.unity
@@ -212,4 +212,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Intro/Spells/SampleScene 42.unity
     guid: 30bd2a5e67e0b554e872df0cf2f4a58c
+  - enabled: 1
+    path: Assets/Scenes/Demo/Moves/Bend^Snap/Power 6.unity
+    guid: 537198437655dd2409d486cba98ae165
+  - enabled: 1
+    path: Assets/Scenes/Demo/Moves/Bend^Snap/Power 7.unity
+    guid: 87a033ed90c15e54c8d0f8a2f4438c72
   m_configObjects: {}
