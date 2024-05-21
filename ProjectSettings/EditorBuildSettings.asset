@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Mans/Options Scene.unity
+    path: Assets/Scenes/Intro/Mans/Options Scene.unity
     guid: 5766db483a29e0240996a861b14764ac
   - enabled: 1
     path: Assets/Scenes/Intro/Accusation/SampleScene.unity
@@ -21,7 +21,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Hortense House.unity
     guid: 9f4a5c3fd866ef34184ff34875134521
   - enabled: 1
-    path: Assets/Scenes/Mans/Caspian.unity
+    path: Assets/Scenes/Intro/Mans/Caspian.unity
     guid: 5359ece7f36a6bb43879fba38d061c5b
   - enabled: 1
     path: Assets/Scenes/MainMap.unity
@@ -51,10 +51,10 @@ EditorBuildSettings:
     path: Assets/Scenes/Intro/Meeting Caspian/SampleScene 7.unity
     guid: 6666d56a2659ec5459f51ae112f151c7
   - enabled: 1
-    path: Assets/Scenes/Mans/Vampire.unity
+    path: Assets/Scenes/Intro/Mans/Vampire.unity
     guid: d2fc84476bf72e44b85d27e67cc74ac3
   - enabled: 1
-    path: Assets/Scenes/Mixxing/JamMaking.unity
+    path: Assets/Scenes/Jam/Mixxing/JamMaking.unity
     guid: f10d220f23e85aa4e95f5cccf2306528
   - enabled: 1
     path: Assets/Scenes/Intro/Meeting Caspian/SampleScene 8.unity
